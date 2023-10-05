@@ -1,0 +1,4 @@
+rencana belajar fahrezisyfq
+
+-belajar git
+ *menginstal git
